@@ -1,0 +1,1 @@
+var t=(e=>(e.Electric="electric",e.Water="water",e.Gas="gas",e.Internet="internet",e.PropertyTax="property_tax",e))(t||{}),r={electric:{label:"Electric",icon:"bolt"},water:{label:"Water",icon:"water_drop"},gas:{label:"Gas",icon:"local_fire_department"},internet:{label:"Internet",icon:"wifi"},property_tax:{label:"Property Tax",icon:"account_balance"}};export{t as a,r as b};
